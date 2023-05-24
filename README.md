@@ -6,7 +6,6 @@
 >>>>>>> 46aeb89965246a13d36b2fed3b79eda515350cf1
 <<<<<<< HEAD
 # Ecommerce site
-http://shepresident.great-site.net
 =======
 # PAM
 >>>>>>> 5224c43 (Initial commit)
